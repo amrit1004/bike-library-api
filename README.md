@@ -102,7 +102,7 @@ Swagger is integrated to provide interactive API documentation. Once the app is 
 ### Swagger Interface
 
 #### **API Overview**
-![Swagger API Overview](https://via.placeholder.com/700x400.png?text=Swagger+API+Overview)
+![Swagger API Overview](C:\Users\Amrit Singhal\Pictures\Screenshots\Screenshot 2024-10-08 221654.png)
 
 #### **Example of API Call in Swagger**
 ![Swagger API Call](https://via.placeholder.com/700x400.png?text=Swagger+API+Call+Example)
