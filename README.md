@@ -44,7 +44,7 @@ A simple REST API built with Nest.js for managing a bike library. This API suppo
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/bike-library-api.git
+   git clone https://github.com/amrit1004/bike-library-api.git
    cd bike-library-api
    ```
 
